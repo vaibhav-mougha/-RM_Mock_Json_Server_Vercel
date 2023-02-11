@@ -7,5 +7,8 @@
   ],
   "users": [
     { "id": 1, "username": "Vaibhav","avatar": "https://i.pinimg.com/736x/26/61/9c/26619c16b5451afaa95956dff93ae3e5.jpg","email": "vaibhav@gmail.com","password": "vaibhav" }
+  ],
+   "blogs": [
+  
   ]
 }
